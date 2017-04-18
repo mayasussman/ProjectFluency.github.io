@@ -148,6 +148,11 @@ a:focus {
 .tcenter {
     text-align: center;
 }
+.bio {
+    text-align: left;
+    font-size: 18px;
+    line-height: 1.5;
+}
 
 
 .intro .intro-body {
