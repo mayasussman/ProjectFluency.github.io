@@ -153,6 +153,9 @@ a:focus {
     font-size: 18px;
     line-height: 1.5;
 }
+.biopic {
+    margin-bottom: 20px;
+}
 
 
 .intro .intro-body {
