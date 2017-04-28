@@ -1,8 +1,9 @@
 # Site settings
 title: Project Fluency
 email: projectfluency@gmail.com
-url: https://projectfluency.org
+url: "http://projectfluency.org"
 description: "We are turning everyday workplace interactions into language learning opportunities."
+logo: "/img/Logo.png"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
